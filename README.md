@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This repository has been forked from <https://github.com/mklajnerok/PISA> to be used as a 
+This repository has been forked from <https://github.com/mklajnerok/PISA>.
 
 This activity was originally created for the [Curating Data Sets for Reproducibility](https://research-reuse.github.io/) workshop at the [Canadian Data Curation Forum](https://data-curation.github.io/), held on October 16-18, 2019 in Hamilton, ON.
 
